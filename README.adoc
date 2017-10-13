@@ -53,13 +53,13 @@ use Spring Framework CORS support to add the relevant CORS response headers.
 :java_version: 1.8
 include::https://github.com/spring-guides/getting-started-macros/blob/master/prereq_editor_android_buildtools.adoc[]
 
-include::https://github.com/spring-guides/getting-started-macros/master/how_to_complete_this_guide.adoc[]
+include::https://github.com/spring-guides/getting-started-macros/blob/master/how_to_complete_this_guide.adoc[]
 
-include::https://github.com/spring-guides/getting-started-macros/master/hide-show-gradle.adoc[]
+include::https://github.com/spring-guides/getting-started-macros/blob/master/hide-show-gradle.adoc[]
 
-include::hhttps://github.com/spring-guides/getting-started-macros/master/hide-show-maven.adoc[]
+include::https://github.com/spring-guides/getting-started-macros/blob/master/hide-show-maven.adoc[]
 
-include::https://github.com/spring-guides/getting-started-macros/master/hide-show-sts.adoc[]
+include::https://github.com/spring-guides/getting-started-macros/blob/master/hide-show-sts.adoc[]
 
 
 
